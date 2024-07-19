@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "691309008271",
+    "project_id": "android-credifavs-test",
+    "storage_bucket": "android-credifavs-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691309008271:android:741a6e3b9b6d3046fea7fa",
+        "android_client_info": {
+          "package_name": "com.appcredifavs2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDvf-i__RNYSiX2tQbHwPh8PiWkWIYm-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
